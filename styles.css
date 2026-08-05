@@ -2,7 +2,7 @@ nav{
    background-color: skyblue;
    text-align: right;
 }
-name{
+.name{
    font-size: 185%;
    display: flex;
    justify-content: center;
