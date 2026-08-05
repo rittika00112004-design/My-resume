@@ -2,3 +2,12 @@ nav{
    background-color: skyblue;
    text-align: right;
 }
+name{
+   font-size: 185%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   width: 100vh;
+   text-align: center;
+}
